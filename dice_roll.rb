@@ -4,6 +4,7 @@
 
 def roll
   return rand(1..6)
+  # bonus
   #return [1, 2, 3, 4, 5, 6].sample
 end
 
